@@ -1,0 +1,65 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "small"
+  },
+  "stickers" : [
+    {
+      "filename" : "octopus.sticker"
+    },
+    {
+      "filename" : "memecat.sticker"
+    },
+    {
+      "filename" : "bongocat.sticker"
+    },
+    {
+      "filename" : "redpanda.sticker"
+    },
+    {
+      "filename" : "narwhal.sticker"
+    },
+    {
+      "filename" : "undertaledog.sticker"
+    },
+    {
+      "filename" : "grumpyCat.sticker"
+    },
+    {
+      "filename" : "hamster.sticker"
+    },
+    {
+      "filename" : "foxy.sticker"
+    },
+    {
+      "filename" : "parrot.sticker"
+    },
+    {
+      "filename" : "penguin.sticker"
+    },
+    {
+      "filename" : "doge.sticker"
+    },
+    {
+      "filename" : "fish.sticker"
+    },
+    {
+      "filename" : "pokemon.sticker"
+    },
+    {
+      "filename" : "regularfox.sticker"
+    },
+    {
+      "filename" : "wolf.sticker"
+    },
+    {
+      "filename" : "catgif.sticker"
+    },
+    {
+      "filename" : "old meme.stickersequence"
+    }
+  ]
+}
